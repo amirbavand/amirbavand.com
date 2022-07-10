@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -15,11 +15,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Full-Stack Software Engineer at <a href="https://www.wesleyclover.com">Wesley Clover</a>. I mainly work on Edge-Signal, which is an edge-computing management platform. I work on different parts of the platform including, the backend, infrastructure, device, and frontend of our web application.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before joining Wesley Clover, I was a software Engineer Intern at <a href="https://www.ericsson.com/en">Ericsson</a>. At Ericcson, I studied the impact of combining parallel and batch testing and came up with a solution to decrease the feedback time of testing by 14% for a particular part of their continuous integration pipeline.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I finished my Master of Computer Science degree at Concordia University where I was fortunate to be supervised by <a href="https://users.encs.concordia.ca/~pcr/">Peter Rigby</a>. My thesis was mainly about using different time-series and algorithmic techniques to decrease the cost of software testing.
+
+I also have done my bachelor's in computer engineering at Amirkabir University of Technology.
+
+Please feel free to contact me if you have any questions or want to talk about a cool project.
 
 <i class="fas fa-envelope"> amirhossein.bavand@gmail.com
 </i>
