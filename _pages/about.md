@@ -7,7 +7,7 @@ permalink: /
 profile:
   align: right
   image: prof_pic.jpg
-  image_cicular: false # crops the image to make it circular
+  image_cicular: false # crops the image to make it circular some changes
   address: >
 
 news: false # includes a list of news items
