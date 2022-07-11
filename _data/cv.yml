@@ -17,6 +17,6 @@
       #  institution: Wesley Clover International
       year: 2020 -2021
       description:
-        - As a research intern I was responsible for analyzing particlar part of Ericsson CI pipline, and suggesting solutions to decrease feedback time of testing, by applying machine learning and algorithmic techniques
+        - As a research intern I was responsible for analyzing particular part of Ericsson CI pipeline, and suggesting solutions to decrease feedback time of testing, by applying machine learning and algorithmic techniques
         - Analyzed Ericsson testing infrastructure data in order to reduce resource consumption using python, Pandas, scikit-learn, and PyTorch
-        - Designed and developed new algorithms to reduce testing time of commits by 14% and wrote a research paper for publishing the new batch testing algorithms
+        - Designed and developed new algorithms to reduce the testing time of commits by 14% and wrote a research paper for publishing the new batch testing algorithms
