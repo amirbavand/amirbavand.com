@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Software Research Engineer based in Toronto. Currently I work at <a href="https://www.wesleyclover.com">Guidewire Software</a> as a Software Egninieer, focusing on backend infrastructure. My team and I are primarily dedicated to enhancing the reliability and maintainability of Guidewire's backend cloud and infrastructure.
+I am a Software Engineer based in Toronto. Currently I work at <a href="https://www.guidewire.com">Guidewire Software</a> as a Software Egninieer, focusing on backend infrastructure. My team and I are primarily dedicated to enhancing the reliability and maintainability of Guidewire's cloud platform and infrastructure.
 
 Previously I was a Full-Stack Software Engineer at <a href="https://www.wesleyclover.com">Wesley Clover</a>. I mainly worked on Edge-Signal, which is an edge-computing management platform. I worked on different parts of the platform including, the backend, infrastructure, device, and frontend of our web application.
 
