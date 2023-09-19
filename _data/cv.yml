@@ -1,14 +1,11 @@
-- title: Software Engineer, Backend Infrastructure
+- title: Software Engineer, Backend
   type: time_table
   contents:
     - title: Guidewire Software
-    - city: Toronto
-      year: 2023 - Present
-      # description:
-      #   - Designing and developing various test-driven microservices to fully automate deploying docker containers to edge devices using Node.js, MongoDB, Jest for unit testing, and AWS
-      #   - Creating and deploying various AWS resources including but not limited to EC2, SQS, SNS, S3, Lambda functions, API Gateway, EventBridge, AWS IoT, and Secret Manager using CDK for infrastructure as code
-      #   - Implementing, fully tested, UI components, using React, TypeScript, React Testing Library for unit testing, and Cypress for end to end testing
-      #   - Created an alert service to notify customers about anomaly resource usages of their edge devices
+      year: 2023 - Present # description:
+        - Working and contributing on migration of a large monolithic Terraform Infrastructure as Code(IAC) to a native Kubernetes components architecture, utilizing Flux CD, Helm, Crossplane, and AWS EKS.
+        - Working on onboarding automation of new partners to Guidewire sandbox environment using Java Spring Boot and PostgreSQL
+
 
 - title: Software Engineer
   type: time_table
@@ -17,12 +14,14 @@
       #     institution: Wesley Clover International
       year: 2021 - 2023
       description:
-        - Designing and developing various test-driven microservices to fully automate deploying docker containers to edge devices using Node.js, MongoDB, Jest for unit testing, and AWS
-        - Creating and deploying various AWS resources including but not limited to EC2, SQS, SNS, S3, Lambda functions, API Gateway, EventBridge, AWS IoT, and Secret Manager using CDK for infrastructure as code
-        - Implementing, fully tested, UI components, using React, TypeScript, React Testing Library for unit testing, and Cypress for end to end testing
-        - Created an alert service to notify customers about anomaly resource usages of their edge devices
+        - Started our SAAS project from scratch and delivered it to public release and AWS partner as a member of a distributed engineering team
+        - Designed and developed various test-driven microservices to fully automate deploying docker containers to edge devices using Python, Node.js TypeScript, MongoDB, Jest for unit testing, and AWS
+        - Created and deployed various AWS resources including but not limited to Cloudformation, EC2, SQS, SNS, S3, Lambda functions, API Gateway, EventBridge, AWS IoT, and Secret Manager using CDK for infrastructure as code
+        - Eased up user authentication by leveraging auth0 and auth0 management APIs
+        - Designed and implemented a fully automated data pipeline as an alert service to receive and process data from edge devices using a rule engine and send email notifications to end users
+        - Implemented, fully tested, UI components, using React, TypeScript, React Testing Library for unit testing, and Cypress for end-to-end testing
 
-- title: Software Engineer Intern
+- title: Software Research Intern
   type: time_table
   contents:
     - title: Ericsson
