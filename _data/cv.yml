@@ -1,9 +1,21 @@
+- title: Software Engineer, Backend Infrastructure
+  type: time_table
+  contents:
+    - title: Guidewire Software
+    - city: Toronto
+      year: 2023 - Present
+      # description:
+      #   - Designing and developing various test-driven microservices to fully automate deploying docker containers to edge devices using Node.js, MongoDB, Jest for unit testing, and AWS
+      #   - Creating and deploying various AWS resources including but not limited to EC2, SQS, SNS, S3, Lambda functions, API Gateway, EventBridge, AWS IoT, and Secret Manager using CDK for infrastructure as code
+      #   - Implementing, fully tested, UI components, using React, TypeScript, React Testing Library for unit testing, and Cypress for end to end testing
+      #   - Created an alert service to notify customers about anomaly resource usages of their edge devices
+
 - title: Software Engineer
   type: time_table
   contents:
     - title: Wesley Clover International
       #     institution: Wesley Clover International
-      year: 2021 - 2022
+      year: 2021 - 2023
       description:
         - Designing and developing various test-driven microservices to fully automate deploying docker containers to edge devices using Node.js, MongoDB, Jest for unit testing, and AWS
         - Creating and deploying various AWS resources including but not limited to EC2, SQS, SNS, S3, Lambda functions, API Gateway, EventBridge, AWS IoT, and Secret Manager using CDK for infrastructure as code
