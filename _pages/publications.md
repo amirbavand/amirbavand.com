@@ -17,9 +17,9 @@ nav_order: 1
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
-years: [2021]
+<!-- years: [2021]
 nav: true
-nav_order: 1
+nav_order: 1 -->
 
 ---
 
