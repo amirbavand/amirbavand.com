@@ -1,10 +1,12 @@
-# - title: Software Engineer, Backend
-#   type: time_table
-#   contents:
-#     - title: Guidewire Software
-#       year: 2023 - Present # description:
-#         - Working and contributing on migration of a large monolithic Terraform Infrastructure as Code(IAC) to a native Kubernetes components architecture, utilizing Flux CD, Helm, Crossplane, and AWS EKS.
-#         - Working on onboarding automation of new partners to Guidewire sandbox environment using Java Spring Boot and PostgreSQL
+- title: Software Engineer, Backend
+  type: time_table
+  contents:
+    - title: Guidewire Software
+      #     institution: Wesley Clover International
+      year: 2023 - Present
+      description:
+        - Working and contributing on migration of a large monolithic Terraform Infrastructure as Code(IAC) to a native Kubernetes components architecture, utilizing Flux CD, Helm, Crossplane, and AWS EKS.
+        - Working on onboarding automation of new partners to Guidewire sandbox environment using Java Spring Boot and PostgreSQL
 
 - title: Software Engineer
   type: time_table
