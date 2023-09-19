@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Full-Stack Software Engineer at <a href="https://www.wesleyclover.com">Wesley Clover</a>. I mainly work on Edge-Signal, which is an edge-computing management platform. I work on different parts of the platform including, the backend, infrastructure, device, and frontend of our web application.
+Previously I was a Full-Stack Software Engineer at <a href="https://www.wesleyclover.com">Wesley Clover</a>. I mainly work on Edge-Signal, which is an edge-computing management platform. I work on different parts of the platform including, the backend, infrastructure, device, and frontend of our web application.
 
 Before joining Wesley Clover, I was a software Engineer Intern at <a href="https://www.ericsson.com/en">Ericsson</a>. At Ericcson, I studied the impact of combining parallel and batch testing and came up with a solution to decrease the feedback time of testing by 14% for a particular part of their continuous integration pipeline.
 
